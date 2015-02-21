@@ -38,7 +38,7 @@ if (empty($lang) || !is_array($lang))
 //
 
 $lang = array_merge($lang, array(
-	'ACP_XITI_TITLE'			=> 'Marqueur Xiti',
+	'ACP_XITI_TITLE'			=> 'Xiti marker',
 	'ACP_XITI_ID'				=> 'ID',
 	'ACP_XITI_ID_EXPLAIN'		=> 'Enter your XiTi ID code.',
 	'ACP_XITI_LOGO'				=> 'Logo',
